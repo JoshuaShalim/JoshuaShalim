@@ -1,70 +1,48 @@
-# 👋 Hi, I'm Joshua Shalim
+# Hi, I'm Joshua Shalim 👋
 
-💻 Software Developer | Full-Stack (React, Next.js, JavaScript)
-🚀 Building scalable web & mobile applications
-📍 Open to opportunities in Qatar
+Full-Stack Web & Mobile Developer based in Doha, Qatar. I build React/Next.js interfaces, Node.js APIs, React Native applications, database-backed systems, and e-commerce automation that connects real business workflows.
 
----
+[Portfolio](https://joshuashalimportfolio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/joshua-shalim/) · [Email](mailto:joshuashalim15@gmail.com)
 
-## 🧠 About Me
+## What I work with
 
-I’m a results-driven Software Developer with experience in designing, developing, and maintaining scalable applications. I specialize in modern JavaScript technologies like React and Next.js, with hands-on experience in API integration, databases, and performance optimization.
+- **Frontend:** React, Next.js, TypeScript, JavaScript, Tailwind CSS, responsive UI
+- **Mobile:** React Native, Android Studio, Firebase, native-device integrations
+- **Backend:** Node.js, Express, REST APIs, authentication, webhook integrations
+- **Data:** PostgreSQL, MySQL, MongoDB, SQLite
+- **Delivery:** Git/GitHub, Vercel, Linux VPS, SSH, PM2, Shopify CLI
+- **AI-assisted engineering:** Cursor Agent, GitHub Copilot, ChatGPT, Kilo Code, prompt/context engineering, supervised debugging and review
 
-I enjoy solving complex problems, building efficient systems, and continuously learning new technologies to stay aligned with industry trends.
+## Featured work
 
----
+### [Flow Finance](https://myflowfinance.vercel.app/)
 
-## ⚙️ Tech Stack
+MERN finance application with JWT authentication, income and expense management, dashboard charts, category suggestions, profile uploads, and Excel exports.
 
-**Frontend:**
-React.js | Next.js | React Native
+[Frontend repository](https://github.com/JoshuaShalim/expense-tracker) · [Backend repository](https://github.com/JoshuaShalim/expense-tracker-backend)
 
-**Backend & Databases:**
-Node.js (Nest.js) | REST APIs | PostgreSQL | MS SQL Server
+### [FlashLead](https://play.google.com/store/apps/details?id=com.directionnorth.flashlead&hl=en)
 
-**Languages:**
-JavaScript (ES6+) | Python | SQL
+Contributed to a published React Native Android application with API-driven screens and integrations for Firebase messaging, contacts, location, media, local storage, and Google sign-in.
 
-**Tools & Workflow:**
-Git | Postman | VS Code | Chrome DevTools
-Agile/Scrum | Debugging | Performance Optimization
+### [HRSG Online](https://hrsgonline.com/)
 
----
+Contributed frontend screens and REST API integrations for an HR platform backed by PostgreSQL. Used Cursor Agent with project-specific context documentation to guide implementation and debugging.
 
-## 🚀 Projects
+### FalconFlex × Shopify Delivery Automation
 
-### 📦 Warehouse Management System
+Private Node.js/Express production integration for [Asena Boutique](https://asena-boutique.com/) covering shipping rates, delivery task creation, tracking, order updates, cancellations, webhooks, and fulfillment synchronization. Deployed on a Linux VPS with PM2.
 
-* Built scalable frontend using React and Next.js
-* Integrated REST APIs and database systems
-* Focused on performance and clean UI architecture
+### [Daily Devotion](https://github.com/JoshuaShalim/DailyDevotion)
 
-### 🤖 Drone Detection System
+React Native devotional app with remote content, archived entries, personal notes, and audio playback.
 
-* Developed using Python and Computer Vision (YOLO)
-* Implemented real-time detection and alert system
+### [Real-Time Drone & Tank Detection](https://github.com/JoshuaShalim/Real_Time_Drone-Tank_Detection_System_Using_Python_yolov5)
 
----
+Python, YOLOv5, and OpenCV computer-vision project for detecting drones and tanks in image and video inputs.
 
-## 📈 What I Bring
+## Current focus
 
-✔ Strong understanding of Software Development Lifecycle (SDLC)
-✔ Clean, maintainable, and scalable code practices
-✔ Experience with cross-functional team collaboration
-✔ Ability to quickly learn and adapt to new technologies
+I am expanding my hands-on work with LLM APIs, retrieval-augmented generation, embeddings, and agent orchestration while applying an established AI-supervised development workflow: plan, provide context, generate, inspect, test, revise, and verify.
 
----
-
-## 📫 Let's Connect
-
-📧 [joshuashalim15@gmail.com](mailto:joshuashalim15@gmail.com)
-🔗 https://linkedin.com/in/joshua-shalim
-
----
-
-⭐ *Always open to collaboration, learning, and new opportunities*
-
-<!---
-JoshuaShalim/JoshuaShalim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Open to full-stack, mobile, and AI-assisted software-development opportunities in Qatar and remote teams.
